@@ -73,7 +73,6 @@ function twentyOne(){
     //Checks to see if the Dealer went above 21 and if they did then tells them their value and the Dealers value
     } else if ( dealer > 21){
         alert("You win! \nThe Dealer Bust!\nThe Dealer had " + dealer + ". You had " + player + ".");
-    ]
     //Checks to see if the Player went above 21 and if they did then tells them their value and the Dealers value
     } else if (player > 21 ){
         alert("You lose! \nYou Bust!\nThe Dealer had " + dealer + ". You had " + player + ".");
